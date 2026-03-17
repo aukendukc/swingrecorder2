@@ -3,8 +3,8 @@ self.__BUILD_MANIFEST = {
     "afterFiles": [],
     "beforeFiles": [
       {
-        "source": "/swingrecorder-web//_next/:path+",
-        "destination": "/swingrecorder-web/_next/:path+"
+        "source": "/swingrecorder2//_next/:path+",
+        "destination": "/swingrecorder2/_next/:path+"
       }
     ],
     "fallback": []
